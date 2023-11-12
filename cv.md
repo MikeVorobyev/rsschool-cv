@@ -1,3 +1,3 @@
-![Avatar](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/avatar.png)
-
 # Mike Vorobyev
+
+<img style="float: right;" src="/assets/avatar.png)">
