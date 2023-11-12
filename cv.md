@@ -57,6 +57,6 @@ delC.onclick = function () {
 
 ## My Nickname In [Discord](https://discord.com/channels/@me): МихаилВ (@MikeVorobyev)
 
-## My Page On [GitHub](https://github.com/MikeVorobyev)
+## My Page On [GitHub](https://github.com/MikeVorobyev) ![GitHab](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/GitHub-Logo.png)
 
 ##### 2023 Mike Vorobyev
