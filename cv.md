@@ -57,6 +57,6 @@ delC.onclick = function () {
 
 ## My Page On [GitHab](https://github.com/MikeVorobyev) [![GitHab](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/GitHub-Logo.png)](https://github.com/MikeVorobyev)
 
-## My Nickname In Discord: МихаилВ (@MikeVorobyev) [Discord](https://discord.com/channels/@me) [![Discord](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/logo-discord.png)](https://discord.com/channels/@me)
+## My Nickname In [Discord](https://discord.com/channels/@me): МихаилВ (@MikeVorobyev) [![Discord](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/logo-discord.png)](https://discord.com/channels/@me)
 
 ##### 2023 Mike Vorobyev
