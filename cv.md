@@ -34,3 +34,14 @@
       - Melodyne
       - MAGIX Samplitude
       - Vst plugins
+
+## Code Examples:
+
+```javascript
+const delC = document.getElementById('del_c');
+delC.onclick = function () {
+  let dellette = [];
+  windowNumbers.innerText = 0;
+  arrAllSumbols = dellette;
+};
+```
