@@ -51,3 +51,12 @@ delC.onclick = function () {
 #### At a young age began to get interested in music. That's why I chose the profession of a musician and went to study at the Tver College of Culture. After graduating from college worked at an art school, taught guitar and piano. Then worked in the House of Culture as a sound engineer and began to engage in video editing. I worked a little as a newspaper layout designer for a local newspaper. Studied courses on video editing and working in music editors. Now I decided to try myself in web design. I completed my initial training in "Code Basics" (Studied HTML, CSS, JavaScript). I took programming courses on the YouTube platform. I am taking an intensive course at "RS School". I'm learning English.
 
 ## English Language: A2
+
+- ## My Completed Projects:
+  - [simple-calculator](https://mikevorobyev.github.io/simple-calculator-/)
+
+## My Page On [GitHab](https://github.com/MikeVorobyev) [![GitHab](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/GitHub-Logo.png)](https://github.com/MikeVorobyev)
+
+## My Nickname In [Discord](https://discord.com/channels/@me): МихаилВ (@MikeVorobyev) [![Discord](https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/logo-discord.png)](https://discord.com/channels/@me)
+
+##### 2023 Mike Vorobyev
