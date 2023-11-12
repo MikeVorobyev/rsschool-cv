@@ -10,8 +10,6 @@
 
   #### Hi, my name is Mike. Now the goal of my life is to become an application and website developer. I love learning and learning new things. I try to develop in different creative directions.
 
-  Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-
   - #### Skills
     - Programming languages and libraries:
       - HTML
