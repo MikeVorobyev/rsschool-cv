@@ -48,4 +48,9 @@ delC.onclick = function () {
 
 ## Education:
 
-#### At a young age began to get interested in music. That's why I chose the profession of a musician and went to study at the Tver College of Culture. After graduating from college worked at an art school, taught guitar and piano. Then worked in the House of Culture as a sound engineer and began to engage in video editing. I worked a little as a newspaper layout designer for a local newspaper. Studied courses on video editing and working in music editors. Now I decided to try myself in web design. I completed my initial training in "Code Basics" (Studied HTML, CSS, JavaScript). I took programming courses on the YouTube platform. I am taking an intensive course at "RS School".
+#### At a young age began to get interested in music. That's why I chose the profession of a musician and went to study at the Tver College of Culture. After graduating from college worked at an art school, taught guitar and piano. Then worked in the House of Culture as a sound engineer and began to engage in video editing. I worked a little as a newspaper layout designer for a local newspaper. Studied courses on video editing and working in music editors. Now I decided to try myself in web design. I completed my initial training in "Code Basics" (Studied HTML, CSS, JavaScript). I took programming courses on the YouTube platform. I am taking an intensive course at "RS School". I'm learning English.
+
+## English Language: A2
+
+- ## My Completed projects:
+  - [simple-calculator](https://mikevorobyev.github.io/simple-calculator-/)
