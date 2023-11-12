@@ -1,8 +1,8 @@
-# Mike Vorobyev
+# [Mike Vorobyev](https://github.com/MikeVorobyev)
 
 <img style="float: right;" src="https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/avatar.png">
 
-## Contact information
+## Contact Information
 
 ### <img style="float: left;" src="https://github.com/MikeVorobyev/rsschool-cv/blob/gh-pages/assets/Mail.png"> _megaman@gmail.com_
 
@@ -52,5 +52,11 @@ delC.onclick = function () {
 
 ## English Language: A2
 
-- ## My Completed projects:
+- ## My Completed Projects:
   - [simple-calculator](https://mikevorobyev.github.io/simple-calculator-/)
+
+## My Nickname In [Discord](https://discord.com/channels/@me): МихаилВ (@MikeVorobyev)
+
+## My Page On [GitHub](https://github.com/MikeVorobyev)
+
+##### 2023 Mike Vorobyev
